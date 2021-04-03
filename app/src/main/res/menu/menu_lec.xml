@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/delete_progress"
+        android:title="Сбросить прогресс по теме"/>
+    <item
+        android:id="@+id/add_to_favourites_lec"
+        android:title="Добавить раздел в избраные"/>
+    <item
+        android:id="@+id/add_to_favourites_page"
+        android:title="Добавить страницу в избранные"/>
+</menu>

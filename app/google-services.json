@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420238211187",
+    "project_id": "nightcode4-2a2e6",
+    "storage_bucket": "nightcode4-2a2e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420238211187:android:3c00bc2fc5602b88d25206",
+        "android_client_info": {
+          "package_name": "com.example.nightcode4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420238211187-80ub85gkgj3a9pj9sl4jhm27od5qivic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqq60dljo-p8QNtRykzs093PEgcHvJhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420238211187-80ub85gkgj3a9pj9sl4jhm27od5qivic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
